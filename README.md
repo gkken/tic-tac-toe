@@ -11,6 +11,10 @@ Tic-tac-toe game designed with JavaScript, HTML, CSS and animations from Animist
 - Play multiple matches without resetting scores or tie counter
 - Different visuals for drawing and winning/losing
 
+# Screenshot
+
+![Winning/Losing](tic-tac-toeScreenshot.PNG)
+
 ## To be implemented
 
 - Option to set a winning score
