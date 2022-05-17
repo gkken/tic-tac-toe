@@ -2,6 +2,8 @@
 
 Tic-tac-toe game designed with JavaScript, HTML, CSS and animations from Animista.
 
+##Live Demo: https://pages.git.generalassemb.ly/gkken/gkken.github.io/
+
 ## Features
 
 - Classic tic-tac-toe rules
