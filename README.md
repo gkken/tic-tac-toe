@@ -29,6 +29,8 @@ Tic-tac-toe game designed with JavaScript, HTML, CSS and animations from Animist
 
 This section is to be read together with the logic flowchart.
 
+![Logic Flowchart](logic-flowchart.jpg)
+
 ## Start game
 
 - Initial screen to allow for player to pick a custom name if desired
